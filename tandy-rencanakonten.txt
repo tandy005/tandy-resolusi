@@ -1,2 +1,5 @@
 - membuat portfolio
+ * HTml
+ * css
+ * Botstrap
 - membuat aplikasi php
