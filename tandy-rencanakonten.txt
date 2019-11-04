@@ -4,3 +4,5 @@
  * Botstrap
 - membuat aplikasi php
 - CRUD PHP 
+  *laravel
+  *Ci
