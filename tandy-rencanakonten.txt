@@ -4,3 +4,6 @@
  * Botstrap
 - membuat aplikasi php
 - CRUD PHP 
+  * OOP
+  * MVC
+  *ci
